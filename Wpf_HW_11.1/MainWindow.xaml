@@ -22,7 +22,7 @@
             <Rectangle.RenderTransform>
                 <TransformGroup>
                 <RotateTransform Angle="-45"/>
-                <TranslateTransform X="26,5" Y="90"/>
+                <TranslateTransform X="26.5" Y="90"/>
                 </TransformGroup>
             </Rectangle.RenderTransform>
         </Rectangle>
